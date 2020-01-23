@@ -1,3 +1,3 @@
 # Usage
 
-Download the .DMG file and run the application inside
+Download RandomPhotoViewer.dmg and run the application inside
