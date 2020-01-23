@@ -8,6 +8,8 @@ E.g. inspired by a post on practicing timed gesture drawing sessions
 
 macOS only: download RandomPhotoViewer.dmg and run the application inside.
 
+Note: currently if you want to stop the photos early, open up "Activity Monitor", search for RandomPhotoViewer and close it.
+
 # How was this made?
 
 MacOS automator application that runs the shell script
