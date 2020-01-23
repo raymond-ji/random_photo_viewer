@@ -1,8 +1,8 @@
 #!/bin/sh
 
-duration=$1
-dir=$2
-numPhotos=$3
+duration=$3
+dir=$1
+numPhotos=$2
 minutes=$(expr $duration \* 60)
 
 filenames=`ls "$dir" | sort -R | head -"$numPhotos"`
