@@ -10,5 +10,4 @@ Inspired by a post on practicing timed gesture drawing sessions
 - open terminal
 - give it executable permissions: `chmod u+x /path/to/randomly_show_photos.sh`
 - run it with: `/path/to/randomly_show_photos.sh /path/to/photos/dir <numPhotosToShow> <minutesPerPhoto>`
-
-Note: if you want to stop the photos early, open up "Activity Monitor", search for RandomPhotoViewer and close it. 
+- to cancel early, press `ctrl-c`
