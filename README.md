@@ -6,6 +6,8 @@ Inspired by a post on practicing timed gesture drawing sessions
 
 # Usage
 
+Probably macOS-only.
+
 - download `randomly_show_photos.sh`
 - open terminal
 - give it executable permissions: `chmod u+x /path/to/randomly_show_photos.sh`
